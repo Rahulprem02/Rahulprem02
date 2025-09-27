@@ -2,8 +2,7 @@
 # 💫 Hi 👋, I'm Rahul
 **A passionate Software Engineer || Backend Developer || Java Developer**
 
-- 🔭 **I’m currently working on:** CHECK24 TechUp Holiday Challenge
-- 🌱 **I’m currently learning:** Java Spring Boot and Hibernate
+- 🌱 **I’m currently learning:** Spring Boot, Hibernate, and Design Patterns
 - 📫 **How to reach me:** Rahulprem02@gmail.com
 - ⚡ **Fun fact:** I Love Teach Python
 
